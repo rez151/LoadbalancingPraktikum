@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="curvesapi-1.04">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/curvesapi-1.04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ooxml-schemas-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-examples-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-excelant-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-ooxml-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-ooxml-schemas-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-scratchpad-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/xmlbeans-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
